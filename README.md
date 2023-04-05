@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumit6767
 - 👀 I’m interested in coding and full stack development 
-- 🌱 I’m currently learning ASP.net core MVC, RESTful API
+- 🌱 I’m currently learning React JS,Redux, RESTful API
 - 📫 How to reach me ...
 
 <!---
